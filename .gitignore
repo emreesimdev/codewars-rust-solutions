@@ -1,0 +1,11 @@
+/target
+/debug
+/release
+
+*.exe
+*.pdb
+*.suo
+
+.DS_Store
+
+.vscode
